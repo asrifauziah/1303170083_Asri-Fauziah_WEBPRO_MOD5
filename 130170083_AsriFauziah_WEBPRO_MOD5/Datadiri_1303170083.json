@@ -1,0 +1,13 @@
+{"data diri" : {
+	"Home" :{
+	"nama" : "Asri Fauziah",
+	"nim" : "1303170083",
+	"kelas" : "IT - 41 - 03"
+	},
+	"About" : "Saya seorang mahasiswa Tel-U jurusan IT",
+	"Hobbie" : ["Nonton","Belanja"],
+	"Skill" : ["Programing tapi kayaknya masih dasar"],
+	"Education" : ["SD", "SMP", "SMA"],
+	"experience" : ["Anggota Organisasi", "Main", "Tidur"]
+}
+}
